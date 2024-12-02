@@ -10,21 +10,6 @@
     <name>Your Library Name</name>
     <description>Short description of your library</description>
     <url>https://github.com/your-repo</url>
-    <licenses>
-        <license>
-            <name>The Apache License, Version 2.0</name>
-            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-            <distribution>repo</distribution>
-        </license>
-    </licenses>
-
-    <developers>
-        <developer>
-            <id>your-id</id>
-            <name>Your Name</name>
-            <email>your-email@example.com</email>
-        </developer>
-    </developers>
     <properties>
         <maven.compiler.source>23</maven.compiler.source>
         <maven.compiler.target>23</maven.compiler.target>
